@@ -1,0 +1,5 @@
+*config.py
+*script.bat
+*.env
+*.vscode
+*__pycache__
